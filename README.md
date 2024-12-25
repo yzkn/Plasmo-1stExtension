@@ -13,7 +13,7 @@ volta install node@latest
 volta install npm@latest
 ```
 
-## WXTのインストール
+## Plasmoのインストール
 
 ```sh
 npm create plasmo
@@ -31,8 +31,8 @@ cd 1stext
 # volta pin node@23.5.0
 # volta pin npm@11.0.0
 
-npm install
-npm run dev
+# npm install
+# npm run dev
 ```
 
 ---
